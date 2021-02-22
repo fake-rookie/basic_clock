@@ -2,4 +2,4 @@
 
 * Intro
 
-  A very simple and basic *example* 1of ~Qt~ application.
+  A very simple and basic *example* of ~Qt~ application.
