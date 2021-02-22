@@ -1,0 +1,5 @@
+#+TITLE: ~Basic-Clock~
+
+* Intro
+
+  A very simple and basic *example* 1of ~Qt~ application.
