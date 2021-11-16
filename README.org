@@ -4,6 +4,6 @@
 
   A very simple and basic *example* of ~Qt~ application.
 
-* Screen
+* Screenshot
 
   [[https://raw.githubusercontent.com/fake-rookie/basic_clock/master/screen.png]]
